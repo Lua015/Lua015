@@ -5,6 +5,7 @@ Meu nome é Luana Gallinari
  - 🌱 Estou me desenvolvendo da linguagem Python
  - 🔭 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
  - 😄 Pronomes: Ela/Dela
+ - ❤️ Português, English & Spanish
    
 ### Você pode entrar em contato comigo 📫
 
