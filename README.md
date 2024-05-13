@@ -1,4 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🤍
+
+Meu nome é Luana Gallinari
+
+ - 🌱 Estou me desenvolvendo da linguagem Python
+ - 🔭 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+ - 😄 Pronomes: Ela/Dela
+   
+### Você pode entrar em contato comigo 📫
+
+lgallinare@gmail.com
 
 <!--
 **Lua015/Lua015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
